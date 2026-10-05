@@ -22,15 +22,15 @@
 <a href="mailto:namishyadavv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/namish-yadav" target="_blank">
+<a href="https://github.com/p3xz" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=namish-yadav&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/namish-yadav?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/namish-yadav?style=flat-square&color=A78BFA&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=p3xz&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/p3xz?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/p3xz?style=flat-square&color=A78BFA&label=STARS&logo=github)
 
 </div>
 
@@ -123,7 +123,7 @@ A fully client-side password strength and security analysis tool, built as a cyb
 | **Performance** | Real-time in-browser analysis, no network round trips |
 | **Security** | 100% client-side processing — no password ever leaves the browser |
 | **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/namish-yadav](https://github.com/namish-yadav) |
+| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
 
 Shipped as a full package rather than a demo: includes a dedicated privacy policy page, custom favicon and Open Graph assets generated via Python, and an instructor-facing technical notes document.
 
@@ -143,7 +143,7 @@ A Discord bot built on the JDA framework for tracking in-game kill statistics, b
 | **Performance** | Lightweight embedded SQLite store, low-overhead runtime |
 | **Security** | Local data persistence with no external data exposure |
 | **Impact** | Core setup and build pipeline complete; feature phase in progress |
-| **Repository** | [github.com/namish-yadav](https://github.com/namish-yadav) |
+| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
 
 Set up the full Maven-based Java build pipeline from scratch, resolving toolchain issues along the way, with the bot's command and statistics-tracking layer under active development.
 
@@ -163,7 +163,7 @@ A dark, minimalist personal portfolio built in React and TypeScript with a custo
 | **Performance** | Tuned canvas-based FloatingLines background animation |
 | **Security** | Client-side contact form with input handling |
 | **Impact** | Live personal branding and project showcase |
-| **Repository** | [github.com/namish-yadav/first-portfolio](https://github.com/namish-yadav/first-portfolio) |
+| **Repository** | [github.com/p3xz/first-portfolio](https://github.com/p3xz/first-portfolio) |
 
 Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned generative background, footer social integration, and a functional contact form UI.
 
@@ -225,40 +225,9 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namish-yadav&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namish-yadav&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=p3xz&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namish-yadav&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=namish-yadav&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namish-yadav&theme=redical&bg_color=0D0221&color=A78BFA&line=8A2BE2&point=E0D7FF&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/namish-yadav/namish-yadav/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3xz&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
 
 </div>
 
@@ -292,7 +261,7 @@ current:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishyadavv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav-639769408)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namish-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p3xz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://namishhh.vercel.app)
 
 </div>
