@@ -77,11 +77,11 @@ I approach engineering with a product mindset: shipping complete, end-to-end exp
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Natural Language Processing | ⭐⭐⭐⭐☆ | spaCy-based text verification and matching pipelines |
-| Local LLM Tooling | ⭐⭐⭐☆☆ | Ollama + Qwen2.5-Coder for on-device coding assistance |
-| AI-Assisted Engineering | ⭐⭐⭐⭐⭐ | Rapid, AI-augmented prototyping across the full stack |
-| Applied Sensing / CSI | ⭐⭐⭐☆☆ | WiFi CSI-based pose detection experimentation |
-| Data-Driven Verification Systems | ⭐⭐⭐⭐☆ | Registration-based cross-verification with OAuth trust layers |
+| Natural Language Processing | 4/5 | spaCy-based text verification and matching pipelines |
+| Local LLM Tooling | 3/5 | Ollama + Qwen2.5-Coder for on-device coding assistance |
+| AI-Assisted Engineering | 5/5 | Rapid, AI-augmented prototyping across the full stack |
+| Applied Sensing / CSI | 3/5 | WiFi CSI-based pose detection experimentation |
+| Data-Driven Verification Systems | 4/5 | Registration-based cross-verification with OAuth trust layers |
 
 </div>
 
@@ -90,7 +90,7 @@ I approach engineering with a product mindset: shipping complete, end-to-end exp
 ## Featured Projects
 
 <details>
-<summary><b>🔗 TrustLink — Verified Alumni Engagement Platform</b></summary>
+<summary><b>TrustLink — Verified Alumni Engagement Platform</b></summary>
 
 <br/>
 
@@ -110,7 +110,7 @@ Led the engineering direction as team lead across a six-person team, aligning th
 </details>
 
 <details>
-<summary><b>🛡️ Infernified — Client-Side Password Security Analyzer</b></summary>
+<summary><b>Infernified — Client-Side Password Security Analyzer</b></summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ Shipped as a full package rather than a demo: includes a dedicated privacy polic
 </details>
 
 <details>
-<summary><b>🤖 KillCounterBot — Java Discord Bot</b></summary>
+<summary><b>KillCounterBot — Java Discord Bot</b></summary>
 
 <br/>
 
@@ -150,7 +150,7 @@ Set up the full Maven-based Java build pipeline from scratch, resolving toolchai
 </details>
 
 <details>
-<summary><b>💼 Personal Portfolio Website</b></summary>
+<summary><b>Personal Portfolio Website</b></summary>
 
 <br/>
 
