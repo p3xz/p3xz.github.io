@@ -504,6 +504,64 @@ body.light-theme .glow {
   z-index: 1;
 }
 
+/* Privacy section + footer */
+.privacy-section {
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 40px 20px;
+  background-color: var(--background-color);
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.privacy-box {
+  max-width: 800px;
+  margin: 0 auto;
+  color: var(--text-color);
+  line-height: 1.7;
+}
+
+.privacy-box .privacy-list {
+  margin-top: 16px;
+  padding-left: 24px;
+  list-style: disc;
+}
+
+.privacy-box .privacy-list li {
+  margin-bottom: 10px;
+}
+
+.site-footer {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 36px 20px 48px;
+  color: var(--text-color);
+}
+
+.footer-credit {
+  margin-bottom: 14px;
+  font-weight: 700;
+}
+
+.footer-socials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+}
+
+.footer-socials a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.footer-socials a:hover {
+  color: var(--c1);
+}
+
 .mid-align {
   text-align: center;
 }
