@@ -1,5 +1,7 @@
 # Phoenixfy
 
+![Preview](preview.png)
+
 > Phoenixfy is the personal hub and link-in-bio site of Namish Yadav (p3xz), putting his contact links, socials, and Instagram mod install guides on one page so they never have to be re-explained one chat at a time.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
