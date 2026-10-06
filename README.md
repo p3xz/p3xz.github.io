@@ -1,277 +1,47 @@
-<div align="center">
+# Phoenixfy | Namish Yadav
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Exploring+AI+%2F+ML+and+applied+NLP;Engineering+products+that+ship;Open+to+SWE+%2F+AI+internships" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Student](https://img.shields.io/badge/BCA-Kristu%20Jayanti%20University-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://namishhh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/namish-yadav-639769408" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:namishyadavv@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/p3xz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=p3xz&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/p3xz?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/p3xz?style=flat-square&color=A78BFA&label=STARS&logo=github)
-
-</div>
-
----
-
-## About Me
-
-I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building production-grade full-stack systems and exploring the intersection of software engineering and applied AI. My work spans **React/TypeScript front ends**, **Node.js backends**, and increasingly **AI/ML-driven features** — from NLP-based verification pipelines to local LLM tooling for developer workflows.
-
-I approach engineering with a product mindset: shipping complete, end-to-end experiences rather than isolated components — covering UI, backend architecture, security, and documentation in the same breath. I favor rapid, AI-assisted prototyping paired with a solid grounding in core web fundamentals, which lets me move fast without losing rigor.
-
-**Currently open to:**
-
-- Software Engineering Internships (Full Stack / Frontend)
-- AI/ML Engineering opportunities
-- Open-source collaboration
-- Hackathons and applied research projects
-
----
+Personal hub and link-in-bio site of Namish Yadav (p3xz): contact links, socials, and app-mod install guides. Live at https://p3xz.github.io
 
 ## Tech Stack
 
-**Languages**
+Languages: HTML5, CSS3, JavaScript (vanilla ES6+, no frameworks or build tools)
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C](https://skillicons.dev/icons?i=c)
+Styling and fonts: custom CSS (833 lines, CSS custom properties for theming) with Google Fonts (Poppins, Montserrat, Qwitcher Grypen, Great Vibes, Parisienne)
 
-**Frontend**
+Hosting: GitHub Pages, served as a fully static site with no backend and no dependencies to install
 
-![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Flutter](https://skillicons.dev/icons?i=flutter)
+Extras: robots.txt and sitemap.xml for search indexing, Open Graph and Twitter meta tags, SVG favicon
 
-**Backend & Databases**
+## Features
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis) ![SQLite](https://skillicons.dev/icons?i=sqlite)
+Home: animated loading screen with a live progress counter and a rotating image stack, then a parallax PHOENIXFY hero with layered edge and glow text that follows the cursor. A star trail effect follows the mouse on desktop.
 
-**Cloud, DevOps & Tooling**
+Navigation: fixed nav bar with smooth-scroll links to Home, Contact, MODS, and Privacy, a dark/light theme toggle that swaps the animated background and accent colors, and a hamburger menu with a slide-in panel on mobile.
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Maven](https://skillicons.dev/icons?i=maven)
+Contact: profile card with bio and link buttons for Instagram (main and private), Telegram, Discord, and email. The Discord button copies the username to the clipboard and shows a toast notification.
 
----
+MODS: expandable guides for installing Instagram mods. Android covers AeroInsta V24.0.0 with step-by-step screenshots; iOS covers InstaKilloGram with a Scarlett sideloading walkthrough, screenshots, and video tutorial links.
 
-## AI / ML Expertise
+Privacy: dedicated section documenting that the page is fully static, stores nothing, sets no cookies, and runs no analytics or tracking.
 
-<div align="center">
+Footer: credit line plus social links to GitHub, LinkedIn, Instagram, portfolio, and privacy.
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Natural Language Processing | 4/5 | spaCy-based text verification and matching pipelines |
-| Local LLM Tooling | 3/5 | Ollama + Qwen2.5-Coder for on-device coding assistance |
-| AI-Assisted Engineering | 5/5 | Rapid, AI-augmented prototyping across the full stack |
-| Applied Sensing / CSI | 3/5 | WiFi CSI-based pose detection experimentation |
-| Data-Driven Verification Systems | 4/5 | Registration-based cross-verification with OAuth trust layers |
+SEO: meta description, canonical URL, Open Graph and Twitter card tags, robots.txt, and sitemap.xml.
 
-</div>
+## Getting Started
 
----
+No build step and no dependencies. Clone the repo and open index.html in any browser, or serve the folder with a static server:
 
-## Featured Projects
-
-<details>
-<summary><b>TrustLink — Verified Alumni Engagement Platform</b></summary>
-
-<br/>
-
-A verified alumni engagement platform built for Smart India Hackathon 2026 (problem statement SIH25017), enabling trusted alumni–student connections through registration-number cross-verification and OAuth-based identity checks.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, Flutter, Node.js, Express, PostgreSQL, Redis, spaCy (NLP) |
-| **Scale** | Multi-platform (web + mobile), 6-member engineering team |
-| **Performance** | Redis-backed caching for low-latency verification lookups |
-| **Security** | Registration-number cross-verification, LinkedIn/GitHub OAuth |
-| **Impact** | Built as SIH 2026 internal prelim submission (team PhoenixFu) |
-| **Repository** | *Private — SIH submission* |
-
-Led the engineering direction as team lead across a six-person team, aligning the problem-statement selection with the team's existing React/TypeScript strengths while architecting the verification layer using NLP-based matching and dual OAuth identity confirmation.
-
-</details>
-
-<details>
-<summary><b>Infernified — Client-Side Password Security Analyzer</b></summary>
-
-<br/>
-
-A fully client-side password strength and security analysis tool, built as a cybersecurity portfolio project with an emphasis on zero server-side data handling.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | JavaScript, HTML5, CSS3 |
-| **Scale** | Single-page client-only application |
-| **Performance** | Real-time in-browser analysis, no network round trips |
-| **Security** | 100% client-side processing — no password ever leaves the browser |
-| **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
-
-Shipped as a full package rather than a demo: includes a dedicated privacy policy page, custom favicon and Open Graph assets generated via Python, and an instructor-facing technical notes document.
-
-</details>
-
-<details>
-<summary><b>KillCounterBot — Java Discord Bot</b></summary>
-
-<br/>
-
-A Discord bot built on the JDA framework for tracking in-game kill statistics, backed by a lightweight SQLite persistence layer.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Java, JDA, SQLite, Maven |
-| **Scale** | Single-server Discord bot, event-driven architecture |
-| **Performance** | Lightweight embedded SQLite store, low-overhead runtime |
-| **Security** | Local data persistence with no external data exposure |
-| **Impact** | Core setup and build pipeline complete; feature phase in progress |
-| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
-
-Set up the full Maven-based Java build pipeline from scratch, resolving toolchain issues along the way, with the bot's command and statistics-tracking layer under active development.
-
-</details>
-
-<details>
-<summary><b>Personal Portfolio Website</b></summary>
-
-<br/>
-
-A dark, minimalist personal portfolio built in React and TypeScript with a custom animated background system.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript |
-| **Scale** | Single-page application with custom animation engine |
-| **Performance** | Tuned canvas-based FloatingLines background animation |
-| **Security** | Client-side contact form with input handling |
-| **Impact** | Live personal branding and project showcase |
-| **Repository** | [github.com/p3xz/first-portfolio](https://github.com/p3xz/first-portfolio) |
-
-Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned generative background, footer social integration, and a functional contact form UI.
-
-</details>
-
----
-
-## Experience
-
-**Team Lead — TrustLink (Smart India Hackathon 2026)**
-`2026 — Present`
-
-Leading a six-member engineering team (PhoenixFu) building a verified alumni engagement platform for SIH 2026, problem statement SIH25017 — from architecture decisions through team coordination.
-
-- Directed problem-statement selection and technical strategy for the team
-- Architected the verification layer: registration-number cross-checks + LinkedIn/GitHub OAuth
-- Coordinated a multi-stack build across React, Flutter, Node.js, and PostgreSQL/Redis
-- Delegated and reviewed work across five teammates through the internal prelim cycle
-
-`React` `Node.js` `PostgreSQL` `Team Leadership`
-
-**Independent Developer — Personal Projects**
-`Ongoing`
-
-Building and shipping complete solo projects end-to-end, from frontend to docs, outside of coursework.
-
-- Shipped Infernified, a client-side password security analyzer, with full supporting docs
-- Built a Java/Discord bot (KillCounterBot) on JDA with a Maven-based pipeline
-- Designed and built a personal portfolio site in React/TypeScript
-
-`React` `TypeScript` `Java` `JavaScript`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Smart India Hackathon 2026 — Internal Prelims | Team lead, PhoenixFu — problem statement SIH25017 |
-| Academic Standing | BCA, Kristu Jayanti University, Bengaluru |
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/namishyadav/)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=p3xz&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3xz&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-current:
-  learning:
-    - Advanced NLP and applied AI system design
-    - Cloud-native architecture patterns
-    - Docker and containerized development workflows
-  building:
-    - TrustLink — verified alumni engagement platform (SIH 2026)
-    - Personal portfolio and developer brand
-  exploring:
-    - Local LLM tooling (Ollama, Qwen2.5-Coder)
-    - WiFi CSI-based sensing and pose detection
-  open_to:
-    - Software Engineering Internships
-    - AI/ML collaboration and research
-    - Open-source contribution
+```
+git clone https://github.com/p3xz/p3xz.github.io.git
+cd p3xz.github.io
+python3 -m http.server 8000
 ```
 
----
+Then visit http://localhost:8000
 
-## Connect
+Deploying to GitHub Pages: push to the main branch and the site goes live at https://p3xz.github.io automatically.
 
-<div align="center">
+## Credits
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishyadavv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav-639769408)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p3xz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://namishhh.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build the thing completely, or don't build it at all."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+Built by Namish Yadav (https://github.com/p3xz). Released under the MIT License (see LICENSE).
