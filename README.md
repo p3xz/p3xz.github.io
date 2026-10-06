@@ -12,6 +12,8 @@ Built in December 2024.
 
 ## What we used
 
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+
 - HTML5, CSS3, JavaScript (vanilla ES6+, no frameworks or build tools)
 - Styling: custom CSS (833 lines, CSS custom properties for theming) with Google Fonts (Poppins, Montserrat, Qwitcher Grypen, Great Vibes, Parisienne)
 - Hosting: GitHub Pages, served as a fully static site with no backend and no dependencies to install
