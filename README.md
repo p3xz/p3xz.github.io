@@ -1,16 +1,35 @@
 # Phoenixfy | Namish Yadav
 
-Personal hub and link-in-bio site of Namish Yadav (p3xz): contact links, socials, and app-mod install guides. Live at https://p3xz.github.io
+Phoenixfy is the personal hub and link-in-bio site of Namish Yadav (p3xz): contact links, socials, and app-mod install guides, all on one page. Live at https://p3xz.github.io
 
-## Tech Stack
+## Why
 
-Languages: HTML5, CSS3, JavaScript (vanilla ES6+, no frameworks or build tools)
+One page to point everyone to: all his contact links and social profiles in a single place, plus the Instagram mod install guides he shares often, so they do not have to be re-explained one chat at a time.
 
-Styling and fonts: custom CSS (833 lines, CSS custom properties for theming) with Google Fonts (Poppins, Montserrat, Qwitcher Grypen, Great Vibes, Parisienne)
+## When
 
-Hosting: GitHub Pages, served as a fully static site with no backend and no dependencies to install
+Built in December 2024.
 
-Extras: robots.txt and sitemap.xml for search indexing, Open Graph and Twitter meta tags, SVG favicon
+## What we used
+
+- HTML5, CSS3, JavaScript (vanilla ES6+, no frameworks or build tools)
+- Styling: custom CSS (833 lines, CSS custom properties for theming) with Google Fonts (Poppins, Montserrat, Qwitcher Grypen, Great Vibes, Parisienne)
+- Hosting: GitHub Pages, served as a fully static site with no backend and no dependencies to install
+- Extras: robots.txt and sitemap.xml for search indexing, Open Graph and Twitter meta tags, SVG favicon
+
+## Why we used this
+
+- Plain HTML/CSS/JS with no build step, so the site deploys straight to GitHub Pages by pushing to the main branch.
+- Vanilla JavaScript is enough for everything interactive here: theme toggle, toast, copy-to-clipboard, expandable guides. No framework overhead.
+- CSS custom properties power the dark/light theme swap from one variable set, flipped at runtime by script.js.
+
+## How it works
+
+- One index.html, one style.css, one script.js. Everything runs in the browser, with no server side logic and no build.
+- The loading screen animates with a live progress counter, then the parallax PHOENIXFY hero renders with layered edge and glow text that follows the cursor. A star trail effect follows the mouse on desktop.
+- The theme toggle flips CSS variables via classList, swapping the animated background and accent colors between light and dark.
+- The Discord button copies the username to the clipboard and shows a toast notification.
+- The MODS guides are expandable sections: Android covers AeroInsta V24.0.0 with step-by-step screenshots; iOS covers InstaKilloGram with a Scarlett sideloading walkthrough, screenshots, and video tutorial links.
 
 ## Features
 
